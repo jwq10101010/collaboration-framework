@@ -9,3 +9,6 @@ Several individuals could decide to band together and collaborate in a cluster o
 
 ### Individual level
 Each individual can decide to self-host a Federated Wiki server and collaborate on other wiki pages from all over the world on any topic available.
+
+### Notes
+- A group of people can share a server and discuss changes in-person (better for the environment and establishes a sense of local community).
