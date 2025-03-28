@@ -12,3 +12,4 @@ Each individual can decide to self-host a Federated Wiki server and collaborate 
 
 ### Notes
 - A group of people can share a server and discuss changes in-person (better for the environment and establishes a sense of local community).
+- Each individual has their own key pair for authentication
