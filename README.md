@@ -15,6 +15,7 @@ Each individual can decide to self-host a Federated Wiki server and collaborate 
 - A group of people can share a server and discuss changes in-person (better for the environment and establishes a sense of local community).
 - Each individual has their own key pair for authentication and to give credit where it is due
 - alternative to Federated Wikis: Kubernetes/Docker containers
+- Also, could create Discord group for organizing beings together for a common purpose and use GitHub for software version control
 
 **MVP:** Establish basic server architecture at government, local, and individual levels
 
