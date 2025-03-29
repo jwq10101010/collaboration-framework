@@ -24,3 +24,7 @@ Each individual can decide to self-host a Federated Wiki server and collaborate 
 
 **Learn more**
 https://wiki.archlinux.org/title/Docker
+
+http://fed.wiki.org
+
+
