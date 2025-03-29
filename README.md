@@ -1,5 +1,5 @@
 # collaboration-framework (infrastructure)
-This repository outlines a possible topological architecture for authentication, governance, and collaborating using Federated Wikis + Open Source Auth Protocols.
+This repository outlines a possible topological architecture for authentication, governance, and collaborating using Federated Wikis (Docker containers) + Open Source Auth Protocols + Software version control + chat/voice messaging group.
 
 ### Government level
 Each government entity has Internet Gateway -> Firewall -> Load Balancer -> Auto-Scaling Group -> Federated Wikis placed in cluster, spread, or partition placement groups. These Federated Wikis can also act as the government entity's source of truth on certain matters such as legislation, rules of living in that particular society, economic policies, etc.
