@@ -8,7 +8,7 @@ Each government entity has Internet Gateway -> Firewall -> Load Balancer -> Auto
 Several individuals could decide to band together and collaborate in a cluster of Federated Wikis (local charter or club). They can establish rules and guidelines as needed.
 
 ### Individual level
-Each individual can decide to self-host a Federated Wiki server and collaborate on other wiki pages from all over the world on any topic available.
+Each individual can decide to self-host a Federated Wiki server and collaborate on other wiki pages from all over the world and even across civilizations and dimensions on any topic available. (let's all work together)
 
 ### Notes
 - At the government level, could have multiple clustered department groups
